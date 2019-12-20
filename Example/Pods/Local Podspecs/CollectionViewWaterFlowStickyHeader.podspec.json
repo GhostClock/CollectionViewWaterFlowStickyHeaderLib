@@ -1,0 +1,22 @@
+{
+  "name": "CollectionViewWaterFlowStickyHeader",
+  "version": "0.1.0",
+  "summary": "A short description of CollectionViewWaterFlowStickyHeader.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangyuanlaifen@gmail.com/CollectionViewWaterFlowStickyHeader",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangyuanlaifen@gmail.com": "ex-zhangzhiyuan001@pingan.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/zhangyuanlaifen@gmail.com/CollectionViewWaterFlowStickyHeader.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CollectionViewWaterFlowStickyHeader/Classes/**/*"
+}

@@ -22,7 +22,7 @@ pod 'CollectionViewWaterFlowStickyHeader'
 
 ## Author
 
-zhangyuanlaifen@gmail.com, ex-zhangzhiyuan001@pingan.com.cn
+zhangyuanlaifen@gmail.com
 
 ## License
 
